@@ -8,6 +8,6 @@ class Wateja extends Component
 {
     public function render()
     {
-        return view('livewire.wateja');
+        return view('livewire.wateja')->layout('layouts.custom-layout');
     }
 }

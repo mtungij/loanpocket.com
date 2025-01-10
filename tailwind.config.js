@@ -32,7 +32,7 @@ module.exports = {
 
             fontFamily: {
 
-                sans: ["Inter", ...defaultTheme.fontFamily.sans], // Using Inter as primary font
+                sans: ["Poppins", ...defaultTheme.fontFamily.sans], // Using Inter as primary font
 
  
             },
