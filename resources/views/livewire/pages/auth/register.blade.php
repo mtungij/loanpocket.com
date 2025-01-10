@@ -41,7 +41,7 @@ new #[Layout('layouts.guest')] class extends Component
     Auth::login($user);
 
                 // Redirect to the dashboard
-        $this->redirect(route('dashboard'));
+        $this->redirect(route('customers'));
     }
 }; ?>
 
