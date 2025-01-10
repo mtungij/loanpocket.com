@@ -31,11 +31,10 @@ module.exports = {
             },
 
             fontFamily: {
-<<<<<<< HEAD
+
                 sans: ["Inter", ...defaultTheme.fontFamily.sans], // Using Inter as primary font
-=======
-                sans: ["Poppins", ...defaultTheme.fontFamily.sans],
->>>>>>> 36f74e7515f643c3223c4fce4fd094b868ac610d
+
+ 
             },
         },
     },
